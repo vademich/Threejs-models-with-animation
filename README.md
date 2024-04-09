@@ -34,3 +34,5 @@
     ```bash
     npm run lint:fix
     ```
+7.
+![screenshot](https://github.com/vademich/Threejs-models-with-animation/assets/58086833/67e30da3-de03-4398-b69a-5c77cc7f9307)
